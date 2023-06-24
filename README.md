@@ -1,2 +1,2 @@
 # Projects
-Mern stack project
+Personal Portfolio project
