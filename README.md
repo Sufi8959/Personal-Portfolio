@@ -1,2 +1,1 @@
-# Projects
-Personal Portfolio project
+Personal Portfolio Website in MERN Stack
